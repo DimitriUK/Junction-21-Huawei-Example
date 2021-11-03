@@ -1,0 +1,2 @@
+# Starting compiling HuaweiMobileServices.Core.dll
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-57b7cd085b3119f48aaa7b79f234fc27
