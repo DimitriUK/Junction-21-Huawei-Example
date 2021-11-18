@@ -9,16 +9,16 @@ Enjoy the event!
 
 # Event Links
 
-Junction Main Page
+Junction Main Page:
 https://github.com/Huawei-Nordic/Junction2021
 
-React Native
+React Native:
 https://github.com/Huawei-Nordic/junction2021_reactnative
 
-Native
+Native:
 https://github.com/Huawei-Nordic/junction2021_native
 
-Flutter
+Flutter:
 https://github.com/Huawei-Nordic/junction2021_flutter
 
 # Huawei Mobile Services Plugin
