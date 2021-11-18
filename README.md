@@ -7,7 +7,19 @@ This is an example repository that will be an empty Unity project with the Huawe
 
 Enjoy the event!
 
+# Event Links
 
+Junction Main Page
+https://github.com/Huawei-Nordic/Junction2021
+
+React Native
+https://github.com/Huawei-Nordic/junction2021_reactnative
+
+Native
+https://github.com/Huawei-Nordic/junction2021_native
+
+Flutter
+https://github.com/Huawei-Nordic/junction2021_flutter
 
 # Huawei Mobile Services Plugin
 
